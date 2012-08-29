@@ -1,0 +1,11 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier",
+			"file_exclude_patterns": ["*.aux","*.out","*.lo*","*.to*"],
+			"folder_exclude_patterns": ["Figures"],
+			"name": "Rapport Stage Ouvrier"
+		}
+	]
+}

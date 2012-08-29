@@ -1,0 +1,45 @@
+\documentclass[a4paper,12pt,oneside]{report}
+\input{Packages}
+\input{Options}
+\begin{document}
+	\input{FrontPage}
+	\pagenumbering{roman} \setcounter{page}{0} 
+	\input{Remerciments}
+	\newpage
+	\tableofcontents
+	\newpage
+	\listoffigures
+	\newpage
+	\listoftables
+	\input{Introduction}
+	\pagenumbering{arabic} \setcounter{page}{1} 
+	\input{Chapitre_1}
+	\input{Chapitre_2}
+	\input{Chapitre_3}
+	\input{Chapitre_4}
+	\input{Conclusion}
+	\fancyhf{}
+	\renewcommand{\headrulewidth}{0.0pt}
+	\normalsize
+	\pagestyle{fancy}
+	\addtocontents{toc}{\protect\newpage} % Adds \newpage in "\tableofcontents"
+	\newpage
+	\begin{center}
+	\vspace*{320pt}
+	\thispagestyle{empty} 
+	{\bf\Huge\centering{ANNEXES}}
+	\vspace*{\stretch{1}}
+	\end{center}
+	\addcontentsline{toc}{chapter}{Annexes}
+	\fancyhf{}
+	\fancyfoot[C]{\thepage}
+	\newpage
+	\input{Annexe_1}	
+	\input{Annexe_2}
+	\input{Annexe_3}
+	\input{Annexe_4}
+	\input{Annexe_5}
+	\input{Annexe_6}
+	\input{Annexe_7}
+	\end{document}
+	

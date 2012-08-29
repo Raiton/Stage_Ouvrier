@@ -1,0 +1,530 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"annexe",
+				"Annexe_6"
+			],
+			[
+				"a",
+				"Annexe_4"
+			],
+			[
+				"A",
+				"Annexe_2"
+			],
+			[
+				"f",
+				"file_exclude_patterns"
+			],
+			[
+				"R",
+				"R fig:vue_reelle"
+			],
+			[
+				"use",
+				"usepackage"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"sub",
+				"subsection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Rapport de Stage Ouvrier.tex",
+			"settings":
+			{
+				"buffer_size": 954,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"command_palette":
+	{
+		"height": 380.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"set sy lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"git b",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"stack",
+				"Stackoverflow: Search Selection"
+			],
+			[
+				"sta",
+				"Stackoverflow: Search from Input"
+			],
+			[
+				"package controle",
+				"Package Control: Install Package"
+			],
+			[
+				"prefe",
+				"Preferences: Settings - User"
+			],
+			[
+				"pdf",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"latex",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"jump",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sort",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"dic",
+				"Package Control: Discover Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"revert",
+				"File: Revert"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 613.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Rapport de Stage Ouvrier.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Stage_Ouvrier.sublime-project",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Packages.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/.gitattributes",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/.gitignore",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Stage_Ouvrier.sublime-workspace",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/latex-stage-ouvrier.sublime-project",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/latex-stage-ouvrier.sublime-workspace",
+		"/C/Users/Rafik/Desktop/Essai/Chapitre_2.tex",
+		"/C/Users/Rafik/Desktop/Essai/Packages.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Chapitre_1.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Annexe_1.tex",
+		"/C/Users/Rafik/Desktop/Essai/Chapitre_1.tex",
+		"/C/Users/Rafik/Desktop/Essai/Chapitre_3.tex",
+		"/C/Users/Rafik/Desktop/Essai/Chapitre_4.tex",
+		"/C/Users/Rafik/Desktop/Essai/Conclusion.tex",
+		"/C/Users/Rafik/Desktop/Essai/Introduction.tex",
+		"/C/Users/Rafik/Desktop/Essai/Rapport de Stage Ouvrier.tex",
+		"/C/Users/Rafik/Desktop/Essai/Remerciments.tex",
+		"/C/Users/Rafik/Desktop/Essai/Annexe_7.tex",
+		"/C/Users/Rafik/Desktop/Essai/Annexe_6.tex",
+		"/C/Users/Rafik/Desktop/Essai/Annexe_5.tex",
+		"/C/Users/Rafik/Desktop/Essai/Annexe_4.tex",
+		"/C/Users/Rafik/Desktop/Essai/Annexe_3.tex",
+		"/C/Users/Rafik/Desktop/Essai/Annexe_2.tex",
+		"/C/Users/Rafik/Desktop/Essai/Annexe_1.tex",
+		"/C/Users/Rafik/Desktop/Essai/latex-stage-ouvrier.sublime-project",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/User/LaTeX.sublime-settings",
+		"/C/Users/Rafik/Downloads/Virtua.Tennis.4-SKIDROW/skidrow.nfo",
+		"/C/Users/Rafik/Desktop/Essai/pagedegarde.tex",
+		"/C/Users/Rafik/Desktop/Essai/Figures/logo.eps",
+		"/C/Program Files /MiKTeX 2.8_new/tex/latex/comment/comment.sty",
+		"/C/Users/Rafik/Desktop/s/test.tex",
+		"/C/Users/Rafik/Desktop/rr/monfichier.tex",
+		"/C/Users/Rafik/Desktop/test.tex",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/LaTeXTools/LaTeX.sublime-build",
+		"/C/Users/Rafik/Desktop/Query from Excel Files.odc",
+		"/C/wamp/www/kit2/css/kickstart-buttons.css",
+		"/C/Users/Rafik/Desktop/latex/jetestlatex/Rapport de Stage Ouvrier.tex",
+		"/C/wamp/www/kit2/example.html",
+		"/C/wamp/www/kit/index.html",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/Rafik/Desktop/menage/Projet POO Afra9 el 7adhba Rafik Megdiche Lotfi Slim Khouloud Gharbi/fichiers simulation/a presenter final .py",
+		"/C/Users/Rafik/AppData/Roaming/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Rafik/Desktop/latex/jetestlatex/Rapport de Stage Ouvrier.toc",
+		"/C/Users/Rafik/Desktop/latex/jetestlatex/Rapport de Stage Ouvrier.aux",
+		"/C/Users/Rafik/Desktop/default.po",
+		"/C/Users/Rafik/Downloads/JSortAlgorithm.java",
+		"/C/Users/Rafik/Desktop/100_0990.JPG",
+		"/C/Users/Rafik/Documents/Visual Studio 2010/Projects/WindowsApplication1/WindowsApplication1/Form1.vb",
+		"/C/Users/Rafik/Desktop/latex/jetestlatex/unautretest.tex",
+		"/D/rapport/Rapport de Stage Ouvrier final.pdf",
+		"/C/Users/Rafik/Desktop/latex/jetestlatex/rapport_de_stage.tex",
+		"/C/Users/Rafik/Desktop/manip.sql",
+		"/C/Users/Rafik/Desktop/latex/jetestlatex/Acronyms.tex",
+		"/C/Users/Rafik/Desktop/latex/jetestlatex/a.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"[\\.,;][a-zA-Z]",
+			"([\\.] [a-z])|^[a-z]",
+			"\\[.,;]",
+			"([\\.] [a-z])|^[a-z]",
+			"\\[.,;]",
+			"([\\.] [a-z])|^[a-z]",
+			"\\[.,;]",
+			"([\\.] [a-z])|^[a-z]",
+			"\\[.,;]",
+			"([\\.] [a-z])|^[a-z]",
+			"\\[.,;]",
+			"([\\.] [a-z])|^[a-z]",
+			"[\\.,;][a-zA-Z]",
+			"\\[.,;]",
+			"\\s[.,;]",
+			"([\\.] [a-z])|^[a-z]",
+			"[\\.,;][a-zA-Z]",
+			"\\s[.,;]",
+			"([\\.] [a-z])|^[a-z]",
+			"[\\.,;][a-zA-Z]",
+			"\\s[.,;]",
+			"(\\s){2,}",
+			"([\\.] [a-z])|^[a-z]",
+			"\\s[,;][a-zA-Z]",
+			"\\s[.,;]",
+			"\\\\section|\\\\chapter\\\\(sub)+section",
+			"\n",
+			"fuz",
+			"control",
+			"input",
+			"Chapitre_1",
+			"arabic",
+			"newpage",
+			"\\input",
+			"Mécanique",
+			"\\input\n",
+			"}\n",
+			"\\input",
+			"input",
+			"}\n",
+			"input",
+			"Annexe",
+			"\\input",
+			"\\input{Annexe_G}",
+			"input",
+			"vertical",
+			"select",
+			"multiselect",
+			"tex",
+			"latex",
+			"     ",
+			"é",
+			"&",
+			"Processeur",
+			"\n\\"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"1",
+			"Definition",
+			"red"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Rapport de Stage Ouvrier.tex",
+					"settings":
+					{
+						"buffer_size": 954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/LaTeX/LaTeX.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"rapportdestagete",
+				"Rapport de Stage Ouvrier.tex"
+			],
+			[
+				"cha",
+				"Chapitre_3.tex"
+			],
+			[
+				"apresepy",
+				"Projet POO Afra9 el 7adhba Rafik Megdiche Lotfi Slim Khouloud Gharbi/fichiers simulation/a presenter final .py"
+			],
+			[
+				"rapportdestageouvriertex",
+				"jetestlatex/Rapport de Stage Ouvrier.tex"
+			],
+			[
+				"jetestlatex/rapportdestageouv",
+				"jetestlatex/Rapport de Stage Ouvrier.aux"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Stage_Ouvrier.sublime-project"
+			]
+		],
+		"width": 622.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 308.0,
+	"status_bar_visible": true
+}
