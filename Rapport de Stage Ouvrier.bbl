@@ -8,6 +8,7 @@ ALSTOM.
 \bibitem{wiki1}
 Wikipedia.
 \newblock Maitnenance.
+\newblock \url{fr.wikipedia.org/wiki/Maintenance}.
 \newblock Mis en ligne le 15 mai 2007, consulté le 10 août 2012.
 
 \bibitem{analyseenergie}
@@ -21,8 +22,9 @@ ALSTOM.
 \newblock MiCOM P120.
 
 \bibitem{cpcwebsitefaq}
-CPC.
+Site~Web CPC.
 \newblock Foire aux questions.
+\newblock \url{www.carthagepower.com.tn/faq.php}.
 \newblock Mis en ligne le 24 novembre 1999, consulté le 14 août 2012.
 
 \end{thebibliography}
