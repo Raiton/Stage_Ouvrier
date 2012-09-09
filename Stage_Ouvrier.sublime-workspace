@@ -47,40 +47,8 @@
 			"file": "Rapport de Stage Ouvrier.tex",
 			"settings":
 			{
-				"buffer_size": 954,
+				"buffer_size": 1008,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Chapitre_3.tex",
-			"settings":
-			{
-				"buffer_size": 11933,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Chapitre_4.tex",
-			"settings":
-			{
-				"buffer_size": 3299,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Conclusion.tex",
-			"settings":
-			{
-				"buffer_size": 1152,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "Chapitre_2.tex",
-			"settings":
-			{
-				"buffer_size": 21119,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -200,17 +168,25 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Annexe_5.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Chapitre_4.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Chapitre_3.tex",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Chapitre_2.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Rapport de Stage Ouvrier.blg",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Rapport de Stage Ouvrier.bbl",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Rapport de Stage Ouvrier.tex",
+		"/C/Users/Rafik/Desktop/dddd/essai/essai.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/References.bib",
+		"/C/Users/Rafik/Downloads/logo.svg",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Stage_Ouvrier.sublime-workspace",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Conclusion.tex",
+		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Annexe_5.tex",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Chapitre_1.tex",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Introduction.tex",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Remerciments.tex",
-		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Rapport de Stage Ouvrier.tex",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Stage_Ouvrier.sublime-project",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Packages.tex",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/.gitattributes",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/.gitignore",
-		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/Stage_Ouvrier.sublime-workspace",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/latex-stage-ouvrier.sublime-project",
 		"/C/Users/Rafik/Documents/GitHub/Stage_Ouvrier/latex-stage-ouvrier.sublime-workspace",
 		"/C/Users/Rafik/Desktop/Essai/Chapitre_2.tex",
@@ -282,6 +258,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"cite",
+			"\\\\ref",
+			"\\ref",
 			"travail",
 			"encore",
 			"\\s[.,;]",
@@ -369,15 +348,15 @@
 					"file": "Rapport de Stage Ouvrier.tex",
 					"settings":
 					{
-						"buffer_size": 954,
+						"buffer_size": 1008,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								259,
-								259
+								828,
+								828
 							]
 						],
 						"settings":
@@ -450,7 +429,6 @@
 							[
 							],
 							"pyflakes_ignore_import_*": true,
-							"spell_check": true,
 							"sublimelinter": true,
 							"sublimelinter_delay": 0,
 							"sublimelinter_disable":
@@ -475,465 +453,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Chapitre_3.tex",
-					"settings":
-					{
-						"buffer_size": 11933,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								8739,
-								8746
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"indent": 1,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 3346.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Chapitre_4.tex",
-					"settings":
-					{
-						"buffer_size": 3299,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								499,
-								499
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"indent": 1,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"spell_check": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "Conclusion.tex",
-					"settings":
-					{
-						"buffer_size": 1152,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								816,
-								816
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"indent": 1,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"spell_check": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "Chapitre_2.tex",
-					"settings":
-					{
-						"buffer_size": 21119,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								21119,
-								21119
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"indent": 1,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": false,
-							"sublimelinter_mark_style": "outline",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/LaTeX/LaTeX.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 8495.0,
+						"translation.y": 315.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
